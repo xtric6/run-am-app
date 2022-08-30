@@ -20,4 +20,3 @@ typing-extensions
 Werkzeug
 WTForms
 zipp
-os
